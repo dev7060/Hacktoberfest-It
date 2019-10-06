@@ -1,2 +1,2 @@
-- BSI - [Contribution](src/hello-world-in-c.c), [Github](https://github.com/kingstroke) , [Others](https://github.com/kingstroke)
+- BSI - [Github](https://github.com/kingstroke) , [Others](https://github.com/kingstroke)
 - BhavDroid - [Github](https://github.com/bhavdroid2)
